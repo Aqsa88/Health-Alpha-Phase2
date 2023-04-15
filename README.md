@@ -31,16 +31,3 @@ Some of the main **requirements** for Health-Alpha are: <br>
 * Download this project as a Zip file or clone it.
 * Transfer this project to the main directory.
 * Open the project in your browser now. It should work fine.
-
-# Hosting. <br>
-
-There are various ways to host your open-source project. You can pick a website that offers free hosting for open-source projects, such as GitHub, GitLab, or Bitbucket. As an alternative, you can host your project on your own server or with the help of a cloud hosting service like Microsoft Azure or Amazon Web Services.
-
-# Codes Of Conduct. <br>
-
-Establishing a friendly and inclusive community around your open-source project requires having a code of conduct. A code of conduct establishes expectations for users and contributors to a project and offers a structure for handling conflicts and resolving problems. You can draft your own code of conduct or use one that already exists as a starting point, but make sure to be specific and enforced.
-
-
-# Announcing. <br>
-
-To make your open-source project known, utilize social media sites like Twitter, LinkedIn, and Reddit to post links to its documentation and source code as well as the name and description of the project. Additionally, you can make contact with pertinent groups and businesses who may be interested in your initiative and solicit their support and opinions. The debut of your idea, together with its salient characteristics and advantages, can then be announced in a blog post or press release.

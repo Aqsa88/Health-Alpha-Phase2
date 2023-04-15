@@ -1,4 +1,7 @@
 # Hosting. <br>
+
+Reasons for choosing github over other tools are following: 
+
 * Large Developer Community: GitHub has a massive developer community of over 56 million users, making it a great platform for open source projects. Developers can easily collaborate and contribute to projects, and project owners can leverage this community to get feedback, bug reports, and feature requests.
 
 * Integration with other tools: GitHub integrates with a wide range of tools, including continuous integration and deployment (CI/CD) services like Travis CI and CircleCI, code review tools like Codacy and Code Climate, and communication tools like Slack and Trello. This allows developers to streamline their workflows and focus on writing code.

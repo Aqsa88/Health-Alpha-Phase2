@@ -12,5 +12,5 @@ Hospital Allied <br>
 Hospital Zip <br>
 Hosptal Advisor <br>
 Hospital Clinic <br>
-After hghlighting these 7 names.Voting as done among the team members to determine an approproate name for the project
+After highlighting these 7 names.Voting as done among the team members to determine an approproate name for the project
 Health Alpha <br> was choosen as the official name for the project </br>.

@@ -1,4 +1,4 @@
-# Choosing a good name for the project  is :
+# Choosing a good name for the project :
 Good name is ine the important taks that should be done when creating a free and open source project
 The name od the project should be easy , uniqua and at the same time easy to remember
 The name of the project should give idea about the project

@@ -1,10 +1,9 @@
 # Health-Alpha
 ITSE 476 - Phase 1
 
-#Features and Requirement List.
+# Features and Requirement List.
 
-Some of the main features for Health-Alpha are:
-
+Some of the main features for Health-Alpha are:<br>
 * Allows user to register an account and login through CPR.
 * Allows user to check his/her profile info and make changes.
 * Allows user to select health care centers of choice.

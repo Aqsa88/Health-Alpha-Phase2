@@ -6,11 +6,11 @@ This is an open source project for a system that intends to consolidate the nati
 
 # Look around First
 There are different projects similar to our site But we will definitely work on more and new features as we mintiend in our mission that were not available on such sites, and this is what will make us the best.
-# Start from what you have:
+# Start from what you have
 Hospital Management System is going to be turned into a free and open source system. Based on the contributors of then Hospital Management system. Which is a system developed for ITSE 305 course that is Software Engineering Project. The system has been partially developed and it is now time to provide a platform to our system "open source software", and give the exact license. The system's improvements will focus on management of hospital, appointement registration, management of appointements, and payment . By optimizing inventory management, notification, and scheduling of appointements, the new system will be focused on enhancing customer service .
 # Good Name
 For Our Hospital management system we have used the name Health Alpha which is unique and at the same time easy to remember
-# Project is free and open source:
+# Project is free and open source
 To avoid confusions and limitations it is very impoertant to state the project is free and Open source This makes the project Powerful and simple to use Our project is an open sopurce nad free to use project It uses GNU liscense this system is free open-source software. Participation is open to everybody. in Addition to that there are some limitations to our project that include:
 1- The system will be developed using c++.
 2- The system will be multilanguage .

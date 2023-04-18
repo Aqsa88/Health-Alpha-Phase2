@@ -1,4 +1,4 @@
-# # ITSE 476 - Phase 1
+ # ITSE 476 - Phase 1
 
 # Health-Alpha  <br>
 
@@ -67,5 +67,4 @@ In github we create a main repository and everything associated to our project i
 <br>
 ## Bug / Issue Tracker
 On our github repository page, we have an "Issues" tab in the top menu. Here anyone from the project member can open an issue, can give it a title, add comments, report bug, attach files and visual proofs and can also give it a label. Project memebers can Vote on issues that they want to see tackled. We can Close issues from commit messages.
-
 ![issue SS](/images/issue.png)

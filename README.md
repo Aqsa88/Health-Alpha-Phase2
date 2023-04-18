@@ -51,3 +51,11 @@ However, we write the documentation to let the people read about our project as 
 Anyone without programming skills cannot write it; it is always created by the developer. It serves to teach other programmers how to deal with code, making it more social than technical. You can find the developer documentation in the design document, and everything will be sorted and organized using wikis.  
 
 
+# Communication channel. <br>
+People usually want to know how to reach the other people involved in the project. Setting up a communication channel for your project where people can discuss things with each other and new developers can reach you easily is very useful. We created a group for our project in Google Groups. A Google Group is like a mailing list because it contains the email addresses of its members. Google Groups is a feature of Google Apps that makes it easy to communicate and collaborate with project team members. Using Google Groups we can hold discussions with each other over the web or email.
+
+![Google form SS](/images/ss.png)
+
+This is a screenshot of our Google Groups space details, which include a description and some guidelines.
+
+You can contact the moderator at fariha4898@gmail.com.

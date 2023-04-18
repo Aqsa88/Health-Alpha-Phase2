@@ -3,6 +3,9 @@
 # Health-Alpha  <br>
 
 This is an open source project for a system that intends to consolidate the nation's healthcare system into a single, functional framework while giving the staff members advantages like much-needed shared data. Additionally, to allow all users to benefit from the various services provided by various medical facilities, for example, a patient being able to schedule an appointment online with the doctor of his choice, saving him the trouble of physically traveling to the hospital and enduring long wait times.
+#start from what you have
+Hospital Management System is going to be turned into a free and open source system. Based on the contributors of then Hospital Management system. Which is a system developed for ITSE 305 course that is Software Engineering Project. The system has been partially developed and it is now time to provide a platform to our system "open source software", and give the exact license. The system's improvements will focus on management of hospital, appointement registration, management of appointements, and payment . By optimizing inventory management, notification, and scheduling of appointements, the new system will be focused on enhancing customer service .
+
 
 
 # Features and Requirement List. <br>
